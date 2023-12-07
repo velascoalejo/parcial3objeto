@@ -1,0 +1,10 @@
+Codigo               Nombre                         Poblacion            Pais                 GTM
+-----------------------------------------------------------------------------------------------------
+BCN01                Barcelona - El Prat            Barcelona            Espa�a               1
+MAD01                Madrid - Barajas               Madrid               Espa�a               1
+PAR01                Paris � Orly                   Paris                Francia              1
+LON01                London - Heathrow              Londres              Gran Breta�a         0
+SPA01                Sao Paulo - Guarulhos          Sao Paulo            Brasil               -3.
+SIB01                SIBUNDOY - Guarulhos           putumayo             colombia             -3.
+-----------------------------------------------------------------------------------------------------
+Numero de Aeropuertos: 6

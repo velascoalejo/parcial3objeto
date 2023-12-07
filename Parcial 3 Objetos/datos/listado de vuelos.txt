@@ -1,0 +1,75 @@
+LISTA DE VUELOS 
+------------------------------------------------------------------------
+AEROPUERTO: Barcelona - El Prat
+COMPAÑIA: Spanair
+SALIDAS 
+
+origen 	 destino 	 Plazas 	 duracion 
+BCN01	MAD01	150	01:00
+BCN01	MAD01	150	01:00
+BCN01	LON01	180	01:00
+BCN01	LON01	120	01:00
+
+LLEGADAS 
+
+origen 	 destino 	 Plazas 	 duracion 
+MAD01	BCN01	150	01:00
+LON01	BCN01	180	01:00
+LON01	BCN01	180	01:00
+------------------------------------------------------------------------
+
+AEROPUERTO: Madrid - Barajas
+COMPAÑIA: Iberia
+SALIDAS 
+
+origen 	 destino 	 Plazas 	 duracion 
+MAD01	BCN01	150	01:00
+
+LLEGADAS 
+
+origen 	 destino 	 Plazas 	 duracion 
+BCN01	MAD01	150	01:00
+BCN01	MAD01	150	01:00
+------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------
+
+AEROPUERTO: London - Heathrow
+COMPAÑIA: British Air
+SALIDAS 
+
+origen 	 destino 	 Plazas 	 duracion 
+LON01	BCN01	180	01:00
+LON01	BCN01	180	01:00
+
+LLEGADAS 
+
+origen 	 destino 	 Plazas 	 duracion 
+BCN01	LON01	180	01:00
+BCN01	LON01	120	01:00
+------------------------------------------------------------------------
+
+AEROPUERTO: Sao Paulo - Guarulhos
+COMPAÑIA: Ryan Air
+SALIDAS 
+
+origen 	 destino 	 Plazas 	 duracion 
+SPA01	SPA01	120	01:00
+
+LLEGADAS 
+
+origen 	 destino 	 Plazas 	 duracion 
+SPA01	SPA01	120	01:00
+SIB01	SPA01	120	01:00
+------------------------------------------------------------------------
+
+AEROPUERTO: SIBUNDOY - Guarulhos
+COMPAÑIA: Ryan Air
+SALIDAS 
+
+origen 	 destino 	 Plazas 	 duracion 
+SIB01	SPA01	120	01:00
+
+------------------------------------------------------------------------
+

@@ -1,0 +1,26 @@
+#Aeropuertos
+BCN01;Barcelona - El Prat;Barcelona;España;1
+MAD01;Madrid - Barajas;Madrid;España;1
+PAR01;Paris – Orly;Paris;Francia;1
+LON01;London - Heathrow;Londres;Gran Bretaña;0
+SPA01;Sao Paulo - Guarulhos;Sao Paulo;Brasil;-3.
+SIB01;SIBUNDOY - Guarulhos;putumayo;colombia;-3.
+#Vuelos
+R;BCN01;MAD01;01:00;Iberia;Airbus;150;L-15:00 X-15:00 V-15:00 D-15:00;-
+R;MAD01;BCN01;01:00;Iberia;Airbus;150;L-18:00 J-20:00 S-20:00;-
+R;BCN01;LON01;01:05;British Air;Boeing;180;L-10:00 J-10:00;-
+R;LON01;BCN01;01:05;British Air;Boeing;180;L-15:00 J-15:00;-
+R;BCN01;LON01;01:10;Ryan Air;Airbus;120;L-10:00 J-10:00;-
+R;LON01;BCN01;01:10;Ryan Air;Airbus;120;J-15:10 J-15:10;-
+R;LON01;SPA01;07:00;British Air;Boeing;200;X-09:45 J-09:45 S-09:45;-
+R;SPA01;MAD01;07:00;British Air;Boeing;200;X-20:25 J-20:25 S-20:25;-
+C;BCN01;MAD01;01:00;Spanair;Airbus;150;Viajes Condor;1/2009/15 20:30
+C;BCN01;MAD01;01:00;Spanair;Airbus;150;Viajes Condor;1/2009/15 20:30
+C;MAD01;BCN01;01:00;Iberia;Airbus;150;Viajes Condor;1/2009/22 20:30
+C;BCN01;LON01;01:00;British Air;Boeing;180;Viaje Ilusion;2/2009/22 20:30
+C;LON01;BCN01;01:00;British Air;Boeing;180;Viaje Ilusion;3/2009/05 15:19
+C;LON01;BCN01;01:00;British Air;Boeing;180;Viaje Ilusion;3/2009/05 15:19
+C;BCN01;LON01;01:00;Ryan Air;Airbus;120;TravelPlan;1/2009/25 15:18
+C;SPA01;SPA01;01:00;Ryan Air;Airbus;120;.TravelPlan;1/2009/31 22:20
+C;SIB01;SPA01;01:00;Ryan Air;Airbus;120;.TravelPlan;1/2009/31 22:20
+.
